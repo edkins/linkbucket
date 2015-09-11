@@ -1,0 +1,13 @@
+{
+  "title": "Link Bucket",
+  "name": "linkbucket",
+  "version": "0.0.1",
+  "description": "Shift-click on links to append them to the clipboard as wikitext",
+  "main": "index.js",
+  "author": "Giles Edkins",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
